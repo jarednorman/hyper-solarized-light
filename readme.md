@@ -1,24 +1,8 @@
-# Solarized Light Theme for Hyper
+# Solarized Right Theme for Hyper
 
-A port of the [Solarized Light](http://ethanschoonover.com/solarized) color scheme for [Hyper.app](https://hyper.is/)
+A port of the [Solarized Light](http://ethanschoonover.com/solarized) colour
+scheme for [Hyper.app](https://hyper.is/) based off of
+[hyper-solarized-light](https://github.com/ghosh/hyper-solarized-light).
 
-![Solarized Light Hyper](https://www.dropbox.com/s/o5acpfvbva52qvc/hyperterm-solarized-light.png?raw=1)
-
-### Installation
-1. Open HyperTerm's preferences by pressing `Cmd + ,`.
-2. Find and Update the plugins array to include `hyper-solarized-light`:
-
-  ```js
-  plugins: [  
-    'hyper-solarized-light'  
-  ],
-  ```
-
-3. Reload HyperTerm by pressing `Cmd + Shft + R`
-
-### Related
-- [Solarized Dark Theme](https://github.com/Ghosh/hyper-solarized-dark)
-
-```
-License - MIT
-```
+This fork exists because the original was not using the "correct" colours and
+was unusable with the official Vim colourscheme.
