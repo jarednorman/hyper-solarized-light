@@ -1,7 +1,7 @@
 const backgroundColor = '#fdf6e3' // base3
-const foregroundColor = '#839496' // base00
-const cursorColor = '#657b83'     // base00
-const borderColor = 'rgba(38, 139, 210, 0.3)'
+const foregroundColor = '#657b83' // base00
+const cursorColor     = '#657b83' // base00
+const borderColor     = 'rgba(38, 139, 210, 0.3)'
 
 const colors = [
   '#073642', // base02
